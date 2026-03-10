@@ -13,14 +13,6 @@ I am solving these problems to improve my **problem-solving skills, coding logic
 ## 🛠 Language Used
 
 * Java
-
-## 📂 Folder Structure
-
-Each problem is organized based on topic.
-
-Example:
-Arrays/
-TwoPointers/
 \
 ## 📈 Progress
 
