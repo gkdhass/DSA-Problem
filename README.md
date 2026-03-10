@@ -26,10 +26,5 @@ This repository helps me:
 * Revise DSA concepts
 * Prepare for technical interviews
 
-## 🔗 Reference
 
-Problems are based on the **NeetCode roadmap** for coding interview preparation.
 
----
-
-⭐ If you find this repository useful, feel free to star it!
