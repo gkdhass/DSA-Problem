@@ -38,6 +38,7 @@ This repository helps me:
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gkdhass/DSA-Problem/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gkdhass/DSA-Problem/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/gkdhass/DSA-Problem/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/gkdhass/DSA-Problem/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +46,7 @@ This repository helps me:
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gkdhass/DSA-Problem/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gkdhass/DSA-Problem/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/gkdhass/DSA-Problem/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/gkdhass/DSA-Problem/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +54,7 @@ This repository helps me:
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gkdhass/DSA-Problem/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gkdhass/DSA-Problem/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/gkdhass/DSA-Problem/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/gkdhass/DSA-Problem/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,4 +71,9 @@ This repository helps me:
 | [0098-validate-binary-search-tree](https://github.com/gkdhass/DSA-Problem/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gkdhass/DSA-Problem/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gkdhass/DSA-Problem/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/gkdhass/DSA-Problem/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/gkdhass/DSA-Problem/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 <!---LeetCode Topics End-->
