@@ -92,4 +92,8 @@ This repository helps me:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gkdhass/DSA-Problem/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/gkdhass/DSA-Problem/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 <!---LeetCode Topics End-->
