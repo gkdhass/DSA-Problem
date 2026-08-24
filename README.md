@@ -89,6 +89,7 @@ This repository helps me:
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gkdhass/DSA-Problem/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0189-rotate-array](https://github.com/gkdhass/DSA-Problem/tree/main/0189-rotate-array/) | Medium |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/gkdhass/DSA-Problem/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,4 +110,9 @@ This repository helps me:
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/gkdhass/DSA-Problem/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/gkdhass/DSA-Problem/tree/main/0344-reverse-string/) | Easy |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/gkdhass/DSA-Problem/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/gkdhass/DSA-Problem/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 <!---LeetCode Topics End-->
