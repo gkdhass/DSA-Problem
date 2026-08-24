@@ -88,6 +88,7 @@ This repository helps me:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gkdhass/DSA-Problem/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0189-rotate-array](https://github.com/gkdhass/DSA-Problem/tree/main/0189-rotate-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,5 +96,10 @@ This repository helps me:
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/gkdhass/DSA-Problem/tree/main/0189-rotate-array/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/gkdhass/DSA-Problem/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0189-rotate-array](https://github.com/gkdhass/DSA-Problem/tree/main/0189-rotate-array/) | Medium |
 <!---LeetCode Topics End-->
