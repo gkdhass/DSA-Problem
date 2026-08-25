@@ -91,6 +91,7 @@ This repository helps me:
 | ------- | ------- |
 | [0001-two-sum](https://github.com/gkdhass/DSA-Problem/tree/main/0001-two-sum/) | Easy |
 | [0053-maximum-subarray](https://github.com/gkdhass/DSA-Problem/tree/main/0053-maximum-subarray/) | Medium |
+| [0088-merge-sorted-array](https://github.com/gkdhass/DSA-Problem/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gkdhass/DSA-Problem/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0169-majority-element](https://github.com/gkdhass/DSA-Problem/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/gkdhass/DSA-Problem/tree/main/0189-rotate-array/) | Medium |
@@ -111,6 +112,7 @@ This repository helps me:
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/gkdhass/DSA-Problem/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/gkdhass/DSA-Problem/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/gkdhass/DSA-Problem/tree/main/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/gkdhass/DSA-Problem/tree/main/0344-reverse-string/) | Easy |
@@ -137,6 +139,7 @@ This repository helps me:
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/gkdhass/DSA-Problem/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/gkdhass/DSA-Problem/tree/main/0169-majority-element/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/gkdhass/DSA-Problem/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gkdhass/DSA-Problem/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
