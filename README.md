@@ -77,6 +77,7 @@ This repository helps me:
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gkdhass/DSA-Problem/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gkdhass/DSA-Problem/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gkdhass/DSA-Problem/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/gkdhass/DSA-Problem/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/gkdhass/DSA-Problem/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gkdhass/DSA-Problem/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Breadth-First Search
@@ -90,6 +91,7 @@ This repository helps me:
 | [0001-two-sum](https://github.com/gkdhass/DSA-Problem/tree/main/0001-two-sum/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gkdhass/DSA-Problem/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0189-rotate-array](https://github.com/gkdhass/DSA-Problem/tree/main/0189-rotate-array/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/gkdhass/DSA-Problem/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/gkdhass/DSA-Problem/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -106,6 +108,7 @@ This repository helps me:
 | [0125-valid-palindrome](https://github.com/gkdhass/DSA-Problem/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/gkdhass/DSA-Problem/tree/main/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/gkdhass/DSA-Problem/tree/main/0344-reverse-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/gkdhass/DSA-Problem/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,4 +123,9 @@ This repository helps me:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/gkdhass/DSA-Problem/tree/main/0001-two-sum/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/gkdhass/DSA-Problem/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/gkdhass/DSA-Problem/tree/main/0349-intersection-of-two-arrays/) | Easy |
 <!---LeetCode Topics End-->
