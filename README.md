@@ -123,6 +123,7 @@ This repository helps me:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/gkdhass/DSA-Problem/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/gkdhass/DSA-Problem/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/gkdhass/DSA-Problem/tree/main/0344-reverse-string/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/gkdhass/DSA-Problem/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 ## Counting
@@ -135,6 +136,7 @@ This repository helps me:
 | ------- | ------- |
 | [0001-two-sum](https://github.com/gkdhass/DSA-Problem/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/gkdhass/DSA-Problem/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/gkdhass/DSA-Problem/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/gkdhass/DSA-Problem/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gkdhass/DSA-Problem/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Sorting
@@ -142,6 +144,7 @@ This repository helps me:
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/gkdhass/DSA-Problem/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/gkdhass/DSA-Problem/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/gkdhass/DSA-Problem/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/gkdhass/DSA-Problem/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gkdhass/DSA-Problem/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Dynamic Programming
