@@ -108,6 +108,7 @@ This repository helps me:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/gkdhass/DSA-Problem/tree/main/0189-rotate-array/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/gkdhass/DSA-Problem/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/gkdhass/DSA-Problem/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -147,8 +148,13 @@ This repository helps me:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/gkdhass/DSA-Problem/tree/main/0053-maximum-subarray/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/gkdhass/DSA-Problem/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/gkdhass/DSA-Problem/tree/main/0169-majority-element/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1137-n-th-tribonacci-number](https://github.com/gkdhass/DSA-Problem/tree/main/1137-n-th-tribonacci-number/) | Easy |
 <!---LeetCode Topics End-->
