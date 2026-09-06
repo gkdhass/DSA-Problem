@@ -98,6 +98,7 @@ This repository helps me:
 | [0349-intersection-of-two-arrays](https://github.com/gkdhass/DSA-Problem/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gkdhass/DSA-Problem/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/gkdhass/DSA-Problem/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
+| [2974-minimum-number-game](https://github.com/gkdhass/DSA-Problem/tree/main/2974-minimum-number-game/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +150,7 @@ This repository helps me:
 | [0242-valid-anagram](https://github.com/gkdhass/DSA-Problem/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/gkdhass/DSA-Problem/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gkdhass/DSA-Problem/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [2974-minimum-number-game](https://github.com/gkdhass/DSA-Problem/tree/main/2974-minimum-number-game/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,4 +164,12 @@ This repository helps me:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/gkdhass/DSA-Problem/tree/main/1137-n-th-tribonacci-number/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2974-minimum-number-game](https://github.com/gkdhass/DSA-Problem/tree/main/2974-minimum-number-game/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2974-minimum-number-game](https://github.com/gkdhass/DSA-Problem/tree/main/2974-minimum-number-game/) | Easy |
 <!---LeetCode Topics End-->
