@@ -77,6 +77,7 @@ This repository helps me:
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gkdhass/DSA-Problem/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gkdhass/DSA-Problem/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gkdhass/DSA-Problem/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/gkdhass/DSA-Problem/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/gkdhass/DSA-Problem/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gkdhass/DSA-Problem/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/gkdhass/DSA-Problem/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
@@ -95,6 +96,7 @@ This repository helps me:
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gkdhass/DSA-Problem/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0169-majority-element](https://github.com/gkdhass/DSA-Problem/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/gkdhass/DSA-Problem/tree/main/0189-rotate-array/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/gkdhass/DSA-Problem/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/gkdhass/DSA-Problem/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gkdhass/DSA-Problem/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/gkdhass/DSA-Problem/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
@@ -118,6 +120,7 @@ This repository helps me:
 | [0088-merge-sorted-array](https://github.com/gkdhass/DSA-Problem/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/gkdhass/DSA-Problem/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/gkdhass/DSA-Problem/tree/main/0189-rotate-array/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/gkdhass/DSA-Problem/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/gkdhass/DSA-Problem/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/gkdhass/DSA-Problem/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gkdhass/DSA-Problem/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -173,4 +176,16 @@ This repository helps me:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2974-minimum-number-game](https://github.com/gkdhass/DSA-Problem/tree/main/2974-minimum-number-game/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/gkdhass/DSA-Problem/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/gkdhass/DSA-Problem/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/gkdhass/DSA-Problem/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
