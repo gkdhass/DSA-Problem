@@ -110,6 +110,7 @@ This repository helps me:
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/gkdhass/DSA-Problem/tree/main/0189-rotate-array/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/gkdhass/DSA-Problem/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [2769-find-the-maximum-achievable-number](https://github.com/gkdhass/DSA-Problem/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/gkdhass/DSA-Problem/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
