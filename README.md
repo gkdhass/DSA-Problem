@@ -129,6 +129,7 @@ This repository helps me:
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/gkdhass/DSA-Problem/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/gkdhass/DSA-Problem/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/gkdhass/DSA-Problem/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/gkdhass/DSA-Problem/tree/main/0344-reverse-string/) | Easy |
@@ -190,4 +191,12 @@ This repository helps me:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/gkdhass/DSA-Problem/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/gkdhass/DSA-Problem/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/gkdhass/DSA-Problem/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
