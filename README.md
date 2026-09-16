@@ -124,6 +124,7 @@ This repository helps me:
 | [0344-reverse-string](https://github.com/gkdhass/DSA-Problem/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/gkdhass/DSA-Problem/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gkdhass/DSA-Problem/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0443-string-compression](https://github.com/gkdhass/DSA-Problem/tree/main/0443-string-compression/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/gkdhass/DSA-Problem/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -131,6 +132,7 @@ This repository helps me:
 | [0125-valid-palindrome](https://github.com/gkdhass/DSA-Problem/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/gkdhass/DSA-Problem/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/gkdhass/DSA-Problem/tree/main/0344-reverse-string/) | Easy |
+| [0443-string-compression](https://github.com/gkdhass/DSA-Problem/tree/main/0443-string-compression/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/gkdhass/DSA-Problem/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/gkdhass/DSA-Problem/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 ## Counting
