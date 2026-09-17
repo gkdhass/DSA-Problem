@@ -99,6 +99,7 @@ This repository helps me:
 | [0287-find-the-duplicate-number](https://github.com/gkdhass/DSA-Problem/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/gkdhass/DSA-Problem/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gkdhass/DSA-Problem/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/gkdhass/DSA-Problem/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/gkdhass/DSA-Problem/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2974-minimum-number-game](https://github.com/gkdhass/DSA-Problem/tree/main/2974-minimum-number-game/) | Easy |
 ## Divide and Conquer
@@ -112,6 +113,7 @@ This repository helps me:
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/gkdhass/DSA-Problem/tree/main/0189-rotate-array/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/gkdhass/DSA-Problem/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/gkdhass/DSA-Problem/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/gkdhass/DSA-Problem/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/gkdhass/DSA-Problem/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Two Pointers
